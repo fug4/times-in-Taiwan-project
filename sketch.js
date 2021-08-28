@@ -1,4 +1,4 @@
-let worldMap, hlALL, hlJP, hlCN, hlMZ, hlNL, hlSPN;
+
 let mouseSize = 30;
 let tempX, tempY;
 
