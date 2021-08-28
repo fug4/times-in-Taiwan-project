@@ -1,4 +1,3 @@
-let imgL, imgR; // 文字圖片左右
 let T; //文字大小
 let message;
 let X = 100, Y = 0; // 清朝字座標
@@ -9,6 +8,7 @@ let newW, newH;
 let space;
 let a = 0, b = 0;
 let left, right;
+
 
 
 // ＊＊＊清朝左右classes＊＊＊
