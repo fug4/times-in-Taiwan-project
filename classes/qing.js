@@ -11,8 +11,8 @@ let a = 0, b = 0;
 let left, right;
 
 function preload(){
-  imgL = loadImage('images/manchu0825_L.png'); // 圖片788 × 2621
-  imgR = loadImage('images/manchu0825_R.png'); // 圖片723 × 2425
+  imgL = loadImage('../images/manchu0825_L.png'); // 圖片788 × 2621
+  imgR = loadImage('../images/manchu0825_R.png'); // 圖片723 × 2425
 }
 
 
