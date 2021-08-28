@@ -87,6 +87,8 @@ function qing () {
   right.show();
   right = new rights (X + T * 2, Y + b + Z + 15)
   right.show();
+  right = new rights (X + T * 2, Y + b + Z * 2 + 30)
+  right.show();
   // 當最上面的文字出現 => loop回到開頭
   if (b + Z + 15 < 0) {
     b = 0;
